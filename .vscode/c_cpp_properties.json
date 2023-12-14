@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "obstacleAssaultEditor Editor Win64 Development (obstacleAssault)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\.vscode\\compileCommands_obstacleAssault.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

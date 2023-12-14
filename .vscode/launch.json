@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch obstacleAssault (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "obstacleAssault Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssault (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "obstacleAssault Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssault (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "obstacleAssault Win64 Development Build",
+			"args": [
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssault (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "obstacleAssault Win64 Test Build",
+			"args": [
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssault (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "obstacleAssault Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssaultEditor (Debug)",
+			"request": "launch",
+			"program": "E:\\unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "obstacleAssaultEditor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\obstacleAssault.uproject"
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssaultEditor (DebugGame)",
+			"request": "launch",
+			"program": "E:\\unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "obstacleAssaultEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\obstacleAssault.uproject"
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch obstacleAssaultEditor (Development)",
+			"request": "launch",
+			"program": "E:\\unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "obstacleAssaultEditor Win64 Development Build",
+			"args": [
+				"C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\obstacleAssault.uproject"
+			],
+			"cwd": "E:\\unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "E:\\unreal\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\anaja\\Documents\\Unreal Projects\\obstacleAssault\\obstacleAssault.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "E:\\unreal\\UE_5.0"
+		}
+	]
+}
